@@ -2,7 +2,7 @@
 
 [Click here to view the working model](https://car-price-predictor-sg.herokuapp.com/)
 
-[Click here to view the Collab notebook](https://colab.research.google.com/drive/1dvjpAiDqlw24fjcuXb6QRZfOuOy1nvFY?usp=sharing)
+[Click here to view the Colab notebook](https://colab.research.google.com/drive/1dvjpAiDqlw24fjcuXb6QRZfOuOy1nvFY?usp=sharing)
 
 This project predicts the price of an used car in the market using linear regression algorithm.
 The user has to select the Company, model, year of purchase, fuel type and enter the number of kilometers the car has travelled. 
